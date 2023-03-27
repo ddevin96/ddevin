@@ -1,0 +1,11 @@
+---
+layout: post
+title: Publications
+date: 2023-03-27 09:00:00 +0100
+categories: jekyll Posts
+permalink: /:categories/:title
+author: "Daniele De Vinco"
+pdf_file: "/files/cv.pdf"
+---
+
+## Publications  
