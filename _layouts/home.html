@@ -71,7 +71,10 @@
                       {{ site.author | escape }}
                     {%- endif -%}
                     </li>
-                    {%- if site.email -%}
+                    {%- if site.personal_email -%}
+                    <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                    {%- endif -%}
+                    {%- if site.work_email -%}
                     <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
                     {%- endif -%}
                 </ul>
