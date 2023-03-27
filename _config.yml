@@ -24,8 +24,9 @@ url: "https://ddevin96.github.io" # the base hostname & protocol for your site, 
 #twitter_username: jekyllrb
 github_username: ddevin96
 social_links:
-    facebook: daniele
+    facebook: daniele.devinco
     github:  ddevin96
+    linkedin: in/ddevin96
 
 
 # Build settings
