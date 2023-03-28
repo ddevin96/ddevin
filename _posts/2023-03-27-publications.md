@@ -7,7 +7,7 @@ permalink: /:categories/:title
 author: "Daniele De Vinco"
 ---
 
-## Publications  
+<!-- ## Publications   -->
 
 - [On evaluating rust as a programming language for the future of massive agent-based simulations](https://link.springer.com/chapter/10.1007/978-981-15-1078-6_2)
 - [Experimenting with Agent-Based Model Simulation Tools](https://www.mdpi.com/2017698)
